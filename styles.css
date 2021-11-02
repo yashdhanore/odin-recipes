@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-size: 64px;
+    background-color: aquamarine;
+}
+
+a{
+    font-size: 40px;
+    padding: 20px 30px;
+    text-decoration: none;
+    float:left;
+    clear:left;
+    text-decoration: wavy;
+    color: black;
+}
+#soma{
+    position: absolute;
+    right: 0%;
+}
+#erina{
+    position: absolute;
+    left: 0%;
+    z-index:-1;
+    width:40%
+}
