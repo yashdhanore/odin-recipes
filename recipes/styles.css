@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-size: 64px;
+    background-color: aquamarine;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+div{
+    padding: 12px;
+    background-color: blanchedalmond;
+}
+
+h3{
+    font-size: 30px;
+}
+
+ul{
+    margin: 0; 
+}
+li{
+    margin: 0;
+}
